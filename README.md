@@ -14,12 +14,13 @@ Chaque exercice est un **ticket** (une « issue ») dans l'onglet **[Issues](../
 - 🔘 **QCM** — vous **répondez** en cliquant dans la petite case ☐ devant la bonne réponse (elle devient ✅), directement dans le ticket.
 - ✍️ **Composition** — il n'y a pas de réponse à cocher : vous **écrivez votre réponse dans un commentaire**, avec vos propres phrases.
 - 🔬 **Expérience** — vous **réalisez une vraie expérience**, puis vous **décrivez le résultat et postez une photo dans un commentaire**.
+- 🧠 **Problème guidé** — un défi en **plusieurs étapes** : vous suivez le guide et vous **écrivez vos réponses (et parfois une photo) dans les commentaires** jusqu'au résultat final.
 
-Ensuite, pour les trois :
+Ensuite, pour tous :
 
 1. Quand vous avez **tout fait**, cochez la case tout en bas :
    > ☐ **C'est fini, je rends ma copie ! 📨**
-2. Vous recevez alors ma **réponse en commentaire** : pour un QCM, votre **score** et les explications ; pour une composition ou une expérience, mes **remarques** et des conseils. 🎉
+2. Vous recevez alors ma **réponse en commentaire** : pour un QCM, votre **score** et les explications ; pour les autres, mes **remarques** et des conseils. 🎉
 
 > 💡 Vous pouvez travailler **ensemble** et discuter avant de cocher. Il n'y a pas de chrono, et se tromper, c'est normal — c'est même comme ça qu'on apprend le mieux !
 
@@ -52,6 +53,8 @@ Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 | 8 | 🧮 **[Maths #3 — Le carnet de voyage](../../issues/9)** | QCM |
 | 9 | 🔬 **[Expérience SVT #1 — Les levures de la pâte de sarrasin](../../issues/10)** | Expérience |
 | 10 | 🎈 **[Expérience Physique-Chimie #1 — Le ballon qui se gonfle tout seul](../../issues/11)** | Expérience |
+| 11 | 🦘 **[Logique #1 — Casse-têtes façon Kangourou](../../issues/12)** | QCM |
+| 12 | 🌳 **[Problème guidé #1 — Mesurer un arbre sans grimper](../../issues/13)** | Problème guidé |
 
 👉 Si vous débutez, commencez par le **Maths #1**.
 
