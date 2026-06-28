@@ -55,6 +55,7 @@ Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 | 10 | 🎈 **[Expérience Physique-Chimie #1 — Le ballon qui se gonfle tout seul](../../issues/11)** | Expérience |
 | 11 | 🦘 **[Logique #1 — Casse-têtes façon Kangourou](../../issues/12)** | QCM |
 | 12 | 🌳 **[Problème guidé #1 — Mesurer un arbre sans grimper](../../issues/13)** | Problème guidé |
+| 13 | 🧮 **[Maths #4 — Le calcul malin](../../issues/14)** | QCM |
 
 👉 Si vous débutez, commencez par le **Maths #1**.
 
