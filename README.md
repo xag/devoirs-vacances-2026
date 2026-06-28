@@ -2,27 +2,25 @@
 
 Salut **Anaïs** et **Apo** ! 👋
 
-Bienvenue dans votre carnet de vacances en **maths**, **SVT** et **physique-chimie**.
+Bienvenue dans votre carnet de vacances en **maths**, **SVT** et **physique-chimie** — avec en plus des **jeux et des énigmes**.
 Le but n'est pas de réviser comme à l'école : c'est de **s'amuser avec des défis**, à votre rythme, et de découvrir que ces matières sont partout autour de nous. 🍕📐🔬🌱
 
 ---
 
 ## 🎯 Comment ça marche
 
-Chaque exercice est un **ticket** (une « issue ») dans l'onglet **[Issues](../../issues)** en haut.
+Chaque exercice est un **ticket** (une « issue ») dans l'onglet **[Issues](../../issues)** en haut. Ouvrez-en un et regardez son **type** :
 
-1. **Ouvrez un exercice** dans la liste des Issues.
-2. **Répondez** en cliquant dans la petite case ☐ devant votre réponse (elle devient ✅).
-3. Quand vous avez répondu à **toutes les questions**, cochez tout en bas :
+- 🔘 **QCM** — vous **répondez** en cliquant dans la petite case ☐ devant la bonne réponse (elle devient ✅), directement dans le ticket.
+- ✍️ **Composition** — il n'y a pas de réponse à cocher : vous **écrivez votre réponse dans un commentaire**, avec vos propres phrases.
+
+Ensuite, pour les deux :
+
+1. Quand vous avez **tout fait**, cochez la case tout en bas :
    > ☐ **C'est fini, je rends ma copie ! 📨**
-4. Vous recevez alors la **correction en commentaire** : votre score, les bonnes réponses et les explications. 🎉
+2. Vous recevez alors ma **réponse en commentaire** : pour un QCM, votre **score** et les explications ; pour une composition, mes **remarques** et des conseils. 🎉
 
 > 💡 Vous pouvez travailler **ensemble** et discuter avant de cocher. Il n'y a pas de chrono, et se tromper, c'est normal — c'est même comme ça qu'on apprend le mieux !
-
-Il y a **deux types de défis** :
-
-- 🔘 **QCM** — vous cochez la bonne réponse directement dans le ticket.
-- ✍️ **Composition** — il n'y a pas de réponse à cocher : vous **écrivez votre réponse dans un commentaire** (avec vos phrases), puis vous cochez la case « je rends ma copie ». Je vous lis et je vous réponds !
 
 ---
 
