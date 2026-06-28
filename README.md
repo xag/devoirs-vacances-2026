@@ -60,6 +60,12 @@ Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 | 13 | 🧮 **[Maths #4 — Le calcul malin](../../issues/14)** | QCM |
 | 14 | 🎭 **[Projet créatif #1 — Un moment d'Histoire mis en scène](../../issues/15)** | Projet créatif |
 | 15 | 🦘 **[Logique #2 — Encore des casse-têtes façon Kangourou](../../issues/16)** | QCM |
+| 16 | 🧮 **[Maths #5 — Au-dessus, en-dessous : les nombres relatifs](../../issues/18)** | QCM |
+| 17 | 🧮 **[Maths #6 — Recettes, soldes et proportions](../../issues/19)** | QCM |
+| 18 | ⚡ **[Physique-Chimie #2 — À la découverte de l'électricité](../../issues/20)** | QCM |
+| 19 | 🧪 **[Physique-Chimie #3 — Mélanges : ça se mélange ou pas ?](../../issues/21)** | QCM |
+| 20 | 🍎 **[SVT #2 — Le grand voyage des aliments](../../issues/22)** | QCM |
+| 21 | 🌋 **[SVT #3 — Quand la Terre se réveille (volcans & séismes)](../../issues/23)** | QCM |
 
 👉 Si vous débutez, commencez par le **Maths #1**.
 
