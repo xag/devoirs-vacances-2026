@@ -15,6 +15,7 @@ Chaque exercice est un **ticket** (une « issue ») dans l'onglet **[Issues](../
 - ✍️ **Composition** — il n'y a pas de réponse à cocher : vous **écrivez votre réponse dans un commentaire**, avec vos propres phrases.
 - 🔬 **Expérience** — vous **réalisez une vraie expérience**, puis vous **décrivez le résultat et postez une photo dans un commentaire**.
 - 🧠 **Problème guidé** — un défi en **plusieurs étapes** : vous suivez le guide et vous **écrivez vos réponses (et parfois une photo) dans les commentaires** jusqu'au résultat final.
+- 🎭 **Projet créatif** — vous **fabriquez une création** (roman-photo, courte vidéo, chorégraphie) et vous la **postez dans un commentaire** (les photos directement, les vidéos via un lien).
 
 Ensuite, pour tous :
 
@@ -34,6 +35,7 @@ Ensuite, pour tous :
 | `énigmes` | 🧩 Jeux & énigmes |
 | `svt` | 🌱 Sciences de la vie et de la Terre |
 | `physique-chimie` | 🔬 Physique-Chimie |
+| `histoire` | 🎭 Histoire |
 
 Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 
@@ -56,6 +58,7 @@ Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 | 11 | 🦘 **[Logique #1 — Casse-têtes façon Kangourou](../../issues/12)** | QCM |
 | 12 | 🌳 **[Problème guidé #1 — Mesurer un arbre sans grimper](../../issues/13)** | Problème guidé |
 | 13 | 🧮 **[Maths #4 — Le calcul malin](../../issues/14)** | QCM |
+| 14 | 🎭 **[Projet créatif #1 — Un moment d'Histoire mis en scène](../../issues/15)** | Projet créatif |
 
 👉 Si vous débutez, commencez par le **Maths #1**.
 
