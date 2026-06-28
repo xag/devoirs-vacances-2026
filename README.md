@@ -19,6 +19,11 @@ Chaque exercice est un **ticket** (une « issue ») dans l'onglet **[Issues](../
 
 > 💡 Vous pouvez travailler **ensemble** et discuter avant de cocher. Il n'y a pas de chrono, et se tromper, c'est normal — c'est même comme ça qu'on apprend le mieux !
 
+Il y a **deux types de défis** :
+
+- 🔘 **QCM** — vous cochez la bonne réponse directement dans le ticket.
+- ✍️ **Composition** — il n'y a pas de réponse à cocher : vous **écrivez votre réponse dans un commentaire** (avec vos phrases), puis vous cochez la case « je rends ma copie ». Je vous lis et je vous réponds !
+
 ---
 
 ## 📚 Les matières
@@ -36,11 +41,13 @@ Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 
 ## 🚀 Les défis
 
-| # | Défi |
-|---|------|
-| 1 | 🧮 **[Maths #1 — Une journée de vacances](../../issues/2)** |
-| 2 | 🏖️ **[Maths #2 — La grande aventure de l'été](../../issues/3)** |
-| 3 | 🏴‍☠️ **[Énigmes #1 — La chasse au trésor](../../issues/4)** |
+| # | Défi | Type |
+|---|------|------|
+| 1 | 🧮 **[Maths #1 — Une journée de vacances](../../issues/2)** | QCM |
+| 2 | 🏖️ **[Maths #2 — La grande aventure de l'été](../../issues/3)** | QCM |
+| 3 | 🏴‍☠️ **[Énigmes #1 — La chasse au trésor](../../issues/4)** | QCM |
+| 4 | ✍️ **[Compo SVT #1 — Le potager du balcon](../../issues/5)** | Composition |
+| 5 | ✍️ **[Compo Physique-Chimie #1 — Les états de l'eau](../../issues/6)** | Composition |
 
 👉 Si vous débutez, commencez par le **Maths #1**.
 
