@@ -46,6 +46,9 @@ Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 | 3 | 🏴‍☠️ **[Énigmes #1 — La chasse au trésor](../../issues/4)** | QCM |
 | 4 | ✍️ **[Compo SVT #1 — Le potager du balcon](../../issues/5)** | Composition |
 | 5 | ✍️ **[Compo Physique-Chimie #1 — Les états de l'eau](../../issues/6)** | Composition |
+| 6 | 🔬 **[Physique-Chimie #1 — Le labo de la cuisine](../../issues/7)** | QCM |
+| 7 | 🌱 **[SVT #1 — La vie dans le jardin](../../issues/8)** | QCM |
+| 8 | 🧮 **[Maths #3 — Le carnet de voyage](../../issues/9)** | QCM |
 
 👉 Si vous débutez, commencez par le **Maths #1**.
 
