@@ -26,6 +26,7 @@ Chaque exercice est un **ticket** (une « issue ») dans l'onglet **[Issues](../
 | Étiquette | Matière |
 |-----------|---------|
 | `maths` | 🧮 Mathématiques |
+| `énigmes` | 🧩 Jeux & énigmes |
 | `svt` | 🌱 Sciences de la vie et de la Terre |
 | `physique-chimie` | 🔬 Physique-Chimie |
 
@@ -33,8 +34,14 @@ Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 
 ---
 
-## 🚀 Premier défi
+## 🚀 Les défis
 
-👉 Commencez par **[🧮 Maths #1 — Une journée de vacances](../../issues/2)**
+| # | Défi |
+|---|------|
+| 1 | 🧮 **[Maths #1 — Une journée de vacances](../../issues/2)** |
+| 2 | 🏖️ **[Maths #2 — La grande aventure de l'été](../../issues/3)** |
+| 3 | 🏴‍☠️ **[Énigmes #1 — La chasse au trésor](../../issues/4)** |
+
+👉 Si vous débutez, commencez par le **Maths #1**.
 
 Bon courage, et surtout… amusez-vous ! 💜
