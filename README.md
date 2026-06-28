@@ -59,6 +59,7 @@ Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 | 12 | 🌳 **[Problème guidé #1 — Mesurer un arbre sans grimper](../../issues/13)** | Problème guidé |
 | 13 | 🧮 **[Maths #4 — Le calcul malin](../../issues/14)** | QCM |
 | 14 | 🎭 **[Projet créatif #1 — Un moment d'Histoire mis en scène](../../issues/15)** | Projet créatif |
+| 15 | 🦘 **[Logique #2 — Encore des casse-têtes façon Kangourou](../../issues/16)** | QCM |
 
 👉 Si vous débutez, commencez par le **Maths #1**.
 
