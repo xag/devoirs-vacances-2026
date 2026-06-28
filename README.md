@@ -13,12 +13,13 @@ Chaque exercice est un **ticket** (une « issue ») dans l'onglet **[Issues](../
 
 - 🔘 **QCM** — vous **répondez** en cliquant dans la petite case ☐ devant la bonne réponse (elle devient ✅), directement dans le ticket.
 - ✍️ **Composition** — il n'y a pas de réponse à cocher : vous **écrivez votre réponse dans un commentaire**, avec vos propres phrases.
+- 🔬 **Expérience** — vous **réalisez une vraie expérience**, puis vous **décrivez le résultat et postez une photo dans un commentaire**.
 
-Ensuite, pour les deux :
+Ensuite, pour les trois :
 
 1. Quand vous avez **tout fait**, cochez la case tout en bas :
    > ☐ **C'est fini, je rends ma copie ! 📨**
-2. Vous recevez alors ma **réponse en commentaire** : pour un QCM, votre **score** et les explications ; pour une composition, mes **remarques** et des conseils. 🎉
+2. Vous recevez alors ma **réponse en commentaire** : pour un QCM, votre **score** et les explications ; pour une composition ou une expérience, mes **remarques** et des conseils. 🎉
 
 > 💡 Vous pouvez travailler **ensemble** et discuter avant de cocher. Il n'y a pas de chrono, et se tromper, c'est normal — c'est même comme ça qu'on apprend le mieux !
 
@@ -49,6 +50,8 @@ Cliquez sur une étiquette dans les Issues pour ne voir qu'une matière.
 | 6 | 🔬 **[Physique-Chimie #1 — Le labo de la cuisine](../../issues/7)** | QCM |
 | 7 | 🌱 **[SVT #1 — La vie dans le jardin](../../issues/8)** | QCM |
 | 8 | 🧮 **[Maths #3 — Le carnet de voyage](../../issues/9)** | QCM |
+| 9 | 🔬 **[Expérience SVT #1 — Les levures de la pâte de sarrasin](../../issues/10)** | Expérience |
+| 10 | 🎈 **[Expérience Physique-Chimie #1 — Le ballon qui se gonfle tout seul](../../issues/11)** | Expérience |
 
 👉 Si vous débutez, commencez par le **Maths #1**.
 
