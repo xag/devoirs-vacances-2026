@@ -43,7 +43,12 @@ we answer → girl replies again → ready again), with no state file.
    - Read what the girls did: ticked answers in the body (`- [x]`), and/or their comment(s)/photos.
      - Photos in comments: grab the image URL, `curl -sL <url> -o <scratchpad>/f.jpg`, then Read it (vision). Repo is public, no auth needed.
    - **Two-pass hint:** if their latest comment asks for *un indice* on a specific question →
-     give a **hint, not the answer**, so they retry. Otherwise give the full correction.
+     give a **hint, not the answer**, so they retry. Then **end the hint comment with a fresh
+     submit checkbox** so they can re-hand-in by ticking it (the word "copie" must appear in it):
+     `- [ ] **On a réessayé — on rend la copie pour la correction !** 📨`
+     When they tick that box, the watcher re-fires (detection counts ticked "rendre la copie"
+     boxes across the body + all comments vs. the number of replies I've posted). Otherwise
+     give the full correction.
    - Post the correction: `gh issue comment N --repo xag/devoirs-vacances-2026 --body-file <scratchpad>/correction.md`
      - **QCM / logique:** score `/N`, per-question ✅/❌ with a short explanation of the right answer and *why*.
      - **Composition / expérience / problème guidé / projet créatif:** warm qualitative feedback — name
