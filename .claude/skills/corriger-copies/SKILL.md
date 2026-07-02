@@ -14,8 +14,21 @@ Repo: `xag/devoirs-vacances-2026` (public). Context lives in the project memory
 corrections are posted as comments by `xag`, tone is warm and encouraging.
 
 ## The pieces
+The scripts live at the **repository root** in `scripts/` (NOT inside this skill folder).
+Run them from the project root — `bash scripts/check-copies.sh` — or with an absolute path.
 - `scripts/check-copies.sh` — one programmatic check. Prints issue numbers ready to correct. No tokens.
 - `scripts/watch-copies.sh` — loops the check every `$INTERVAL`s, exits (waking Claude) on the first hit.
+  It finds `check-copies.sh` next to itself, so it works from any cwd.
+
+## Auth — non-interactive, no `gh auth login`
+The SSH key authenticates *git* but NOT the GitHub REST API that `gh` uses. `check-copies.sh`
+therefore reads a token from `~/.github_token` (override: `GH_TOKEN_FILE`) into `GH_TOKEN`.
+The PAT (fine-grained, scoped to `xag/devoirs-vacances-2026`, **Issues: Read and write**) is
+stored in **Bitwarden** — item `GitHub PAT — devoirs de vacances`, username `xag` — and mirrored
+to `~/.github_token` for runtime. So `check-copies.sh` resolves the token in this order:
+`GH_TOKEN`/`GITHUB_TOKEN` env → `~/.github_token` (override `GH_TOKEN_FILE`) → `bw get password`
+on that item using an inherited unlocked `BW_SESSION`. If none resolves, regenerate the PAT and
+re-save both places — never fall back to interactive `gh auth login`.
 
 A copy is **ready** when the submit box `- [x] … rend … copie` is ticked (or a "je rends ma
 copie" comment exists) **and** the last comment is **not** from `xag` — i.e. not yet handled.
@@ -24,8 +37,12 @@ we answer → girl replies again → ready again), with no state file.
 
 ## Procedure
 
-1. **Sanity check.** `gh auth status` works and the repo is reachable. Run `bash scripts/check-copies.sh`
-   once immediately — if it already lists issues, correct them now (step 4) before arming.
+1. **Sanity check.** Confirm the token is loaded (no interactive login): from the project root
+   run `bash scripts/check-copies.sh` once immediately. The script reads `~/.github_token` into
+   `GH_TOKEN` itself, so `gh` is authenticated non-interactively. Verify with
+   `GH_TOKEN="$(tr -d ' \t\r\n' < ~/.github_token)" gh auth status` if needed. If the token file
+   is missing, guide the user to create the fine-grained PAT (see Auth above) — never wait on
+   `gh auth login`. If the check already lists issues, correct them now (step 4) before arming.
 
 2. **Arm the watcher in the BACKGROUND** (Bash tool with `run_in_background: true`):
    ```
